@@ -17,7 +17,7 @@ This browser extension adds custom playback speed buttons to YouTube videos, all
 1.  **Download the Extension Files:**
     * Clone this Git repository to your local machine:
         ```bash
-        git clone <repository_url>
+        git clone https://github.com/thathsara404/youtube_play_speed_ext.git
         ```
         Replace `<repository_url>` with the actual URL of your Git repository.
     * Alternatively, download the repository as a ZIP file and extract it.
@@ -41,9 +41,8 @@ This browser extension adds custom playback speed buttons to YouTube videos, all
 1.  **Download the Extension Files:**
     * Clone this Git repository to your local machine:
         ```bash
-        git clone <repository_url>
+        git clone https://github.com/thathsara404/youtube_play_speed_ext.git
         ```
-        Replace `<repository_url>` with the actual URL of your Git repository.
     * Alternatively, download the repository as a ZIP file and extract it.
 
 2.  **Open Firefox Add-ons Debugging:**
@@ -82,15 +81,6 @@ If you'd like to contribute to this project, please feel free to:
 * Suggest new features.
 * Submit pull requests with improvements or fixes.
 
-## License
-
-[Specify your license here, e.g., MIT License]
-
 ---
-
-**Remember to replace:**
-
-* `<repository_url>` with the actual URL of your Git repository.
-* `[Specify your license here, e.g., MIT License]` with the actual license you are using for your project.
 
 This README file provides a good overview of your extension and clear instructions for installation on both Chrome and Firefox. You can further customize it with more details about the project, development, or contributing guidelines as needed.
